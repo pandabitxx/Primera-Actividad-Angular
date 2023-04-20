@@ -1,5 +1,14 @@
-.colmenu {
+/* .colmenu {
     background-color: aqua;
     margin-bottom: 1rem;
     height: 20rem;
+} */
+
+.F1 {
+    background-color: aqua;
+    height: 312px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
 }

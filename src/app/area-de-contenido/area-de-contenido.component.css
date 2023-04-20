@@ -1,18 +1,45 @@
-.colmenu {
+/* .colmenu {
     background-color: aqua;
     height: 20rem;
+} */
+
+.C1 {
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.C2 {
+    padding-left: 0%;
+    padding-right: 0%;
 }
 
 .C1-F1 {
-    height: 10rem;
+    height: 150px;
+    width: 287px;
+    background-color: antiquewhite;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-top: 12px;
+    margin-right: 6px;
 }
 .C1-F2 {
-    height: 10rem;
+    height: 150px;
+    width: 287px;
+    background-color: antiquewhite;
+    margin-left: 12px;
+    margin-right: 6px;
 }
 
 .C2-F1 {
-    height: 10rem;
+    height: 150px;
+    width: 287px;
+    background-color: antiquewhite;
+    margin-left: 0%;
+    margin-bottom: 12px;
+    margin-top: 12px;
 }
 .C2-F2 {
-    height: 10rem;
+    height: 150px;
+    width: 287px;
+    background-color: antiquewhite;
+    margin-left: 0%;
 }
